@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>🌍 Welcome to My Web Page</h1>
+    <p>This is a paragraph written in HTML.</p>
+    <h2>About Me</h2>
+    <p>I am learning how to create web pages using HTML.</p>
+    <h2>My Favorite Websites</h2>
+    <ul>
+        <li><a href="https://www.google.com">Google</a></li>
+        <li><a href="https://www.wikipedia.org">Wikipedia</a></li>
+    </ul>
+    <h2>My Picture</h2>
+    <img src="https://via.placeholder.com/200" alt="Sample Image">
+</body>
+</html>
